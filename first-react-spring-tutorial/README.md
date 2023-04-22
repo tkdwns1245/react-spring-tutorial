@@ -50,6 +50,13 @@ export default function MyComponent() {
   )
 }
 ```
-<iframe src="https://codesandbox.io/s/quirky-roman-kypdo4?file=/src/App.js"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="My CodeSandbox Example"></iframe>
+
+ 위 코드를 작성하고 App.js 에 MyComponent를 작성 해 보면 다음 결과물을 확인 할 수 있다.
+<iframe src="https://codesandbox.io/embed/quirky-roman-kypdo4?fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:250px; border:0; border-radius: 4px; overflow:hidden;"
+     title="quirky-roman-kypdo4"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
+
+우리의 첫번째 React-Spring 이벤트 예제이다!~
